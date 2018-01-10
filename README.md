@@ -6,7 +6,7 @@ Börja med att forka projektet och under arbetet ska ni committa och pusha upp d
 
 Innan ni börjar med koda, gör en lösning i psuedokod eller flödesschema.
 
-Det finns färdigskrivna tester, för att testa funktionaliteten, skrivna i pytest. Använd requirements.txt för att installera dessa.
+Det finns färdigskrivna tester, för att testa funktionaliteten, skrivna i pytest. Använd requirements.txt för att installera dessa. För att det ska fungera måste ni skriva koden i `rovare.py` i avsedda funktionerna och returnera rätt svar.
 
 pytest använder ni lättast från en terminal ```pytest -v``` där -v står för verbose. kör pytest i samma katalog som ni har program och testfilerna.
 
